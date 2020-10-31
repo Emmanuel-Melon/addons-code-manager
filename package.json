@@ -47,7 +47,7 @@
     "lodash.debounce": "4.0.8",
     "loglevel": "1.7.0",
     "mini-css-extract-plugin": "1.2.1",
-    "node-sass": "4.14.1",
+    "node-sass": "5.0.0",
     "prop-types": "15.7.2",
     "query-string": "6.13.6",
     "react": "16.14.0",
